@@ -1,0 +1,46 @@
+# DDL
+
+CREATE DATABASE stocks
+
+# DML
+
+# CONTEXT-DATABASE: stocks
+
+stock_price,ticker=A open=25.6,high=25.61,low=25.22,volume=34758.0 1450196515
+stock_price,ticker=A open=25.64,high=25.74,low=25.33,volume=22247.0 1450455715
+stock_price,ticker=A open=25.5,high=25.7,low=25.225,volume=30891.0 1450542115
+stock_price,ticker=A open=25.32,high=25.6425,low=25.145,volume=33334.0 1450628515
+stock_price,ticker=A open=25.5,high=25.57,low=25.23,volume=70176.0 1450714915
+stock_price,ticker=A open=25.67,high=26.05,low=25.63,volume=39694.0 1450801315
+stock_price,ticker=A open=25.45,high=25.74,low=25.31,volume=51064.0 1451060515
+stock_price,ticker=A open=25.51,high=26.33,low=25.48,volume=66422.0 1451146915
+stock_price,ticker=A open=25.97,high=25.97,low=24.96,volume=64614.0 1451233315
+stock_price,ticker=A open=25.47,high=25.54,low=25.0,volume=46369.0 1451319715
+stock_price,ticker=A open=25.37,high=25.92,low=25.1475,volume=32556.0 1451406115
+stock_price,ticker=A open=26.31,high=27.19,low=26.16,volume=36764.0 1451838115
+stock_price,ticker=A open=27.08,high=27.88,low=26.94,volume=42987.0 1451924515
+stock_price,ticker=A open=27.88,high=28.16,low=27.75,volume=43907.0 1452010915
+stock_price,ticker=A open=27.86,high=28.18,low=27.64,volume=35156.0 1452270115
+stock_price,ticker=A open=28.01,high=28.38,low=27.65,volume=33180.0 1452356515
+stock_price,ticker=A open=28.33,high=28.77,low=28.33,volume=32339.0 1452442915
+stock_price,ticker=A open=28.59,high=28.82,low=28.175,volume=39189.0 1452529315
+stock_price,ticker=A open=28.69,high=28.73,low=27.82,volume=44366.0 1452615715
+stock_price,ticker=A open=28.73,high=29.38,low=28.62,volume=56186.0 1452874915
+stock_price,ticker=A open=28.96,high=28.96,low=28.39,volume=47308.0 1452961315
+stock_price,ticker=A open=28.59,high=28.83,low=28.15,volume=44547.0 1453047715
+stock_price,ticker=A open=28.38,high=28.45,low=27.58,volume=29750.0 1453134115
+stock_price,ticker=A open=27.77,high=27.84,low=27.48,volume=36891.0 1453220515
+stock_price,ticker=A open=27.69,high=28.23,low=27.49,volume=21000.0 1453479715
+stock_price,ticker=A open=27.8,high=28.13,low=27.705,volume=31254.0 1453566115
+stock_price,ticker=A open=28.06,high=28.07,low=27.51,volume=45318.0 1453652515
+stock_price,ticker=A open=26.63,high=27.32,low=26.31,volume=54585.0 1453738915
+stock_price,ticker=A open=26.41,high=26.47,low=25.95,volume=35743.0 1453825315
+stock_price,ticker=A open=26.29,high=26.98,low=26.21,volume=31912.0 1454084515
+stock_price,ticker=A open=27.17,high=27.47,low=26.92,volume=28873.0 1454170915
+stock_price,ticker=A open=27.07,high=27.2,low=26.8905,volume=15895.0 1454257315
+stock_price,ticker=A open=27.5,high=27.75,low=27.31,volume=33654.0 1454343715
+stock_price,ticker=A open=27.38,high=27.54,low=27.36,volume=20862.0 1454430115
+stock_price,ticker=A open=27.59,high=27.71,low=27.33,volume=18950.0 1454689315
+stock_price,ticker=A open=27.41,high=27.53,low=27.15,volume=14226.0 1454775715
+stock_price,ticker=A open=27.68,high=27.73,low=27.47,volume=27705.0 1454862115
+stock_price,ticker=A open=27.49,high=27.665,low=27.4,volume=28276.0 1454948515
